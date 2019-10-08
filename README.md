@@ -6,10 +6,7 @@
 
 ---
 <p  align="center">
-    
-<a>[![repo size](https://img.shields.io/github/repo-size/PJijin/Personal-Website.svg)](https://github.com/PJijin/Personal-Website/archive/master.zip) </a>
-<a>[![Donate](https://img.shields.io/badge/$-donate-3366FF.svg)](https://www.buymeacoffee.com/PJijin) </a>
-
+<a>[![Donate](https://img.shields.io/badge/$-donate-3366FF.svg)](https://www.ko-fi.com/hraverkar) </a>
 </p>
 
 # Features ✨
@@ -25,7 +22,7 @@ Automatically shows your GitHub public repo, blog posts (dev.to or medium) on yo
 1. Clone the Repository
 
     ```
-     git clone https://github.com/PJijin/Personal-Website.git
+     git clone https://github.com/hraverkar/hraverkar.git
     ```
 
 2. Run this command to install dependencies
@@ -55,4 +52,4 @@ Give a ⭐️ if this project helped you!
 
 # Fork from 
 
-	Website fork from (https://github.com/PJijin)
+Website fork from (https://github.com/PJijin)
