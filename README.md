@@ -1,6 +1,7 @@
 # Personal Website Template
 
-[Personal Website - Lite Mode](https://i.imgur.com/3lbHQrh.png)
+![Personal Website - Lite Mode](https://i.imgur.com/3lbHQrh.png)
+![Personal Website - Dark Mode](https://i.imgur.com/bUIAalX.png)
 <p align="center"><sub>Code with ♥️</sub></p>
 
 ---
