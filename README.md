@@ -1,7 +1,6 @@
 # Personal Website Template
 
-[![Personal Website](https://i.ibb.co/xYS6cj6/chrome-NOVRg-AAnes.png'Personal Website')]()
-
+[Personal Website - Lite Mode](https://i.imgur.com/3lbHQrh.png)
 <p align="center"><sub>Code with ♥️</sub></p>
 
 ---
