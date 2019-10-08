@@ -52,4 +52,4 @@ Give a ⭐️ if this project helped you!
 
 # Fork from 
 
-Website fork from (https://github.com/PJijin)
+Website fork from [Pjijin](https://github.com/PJijin)
