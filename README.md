@@ -5,6 +5,11 @@
 <p align="center"><sub>Code with ♥️</sub></p>
 
 [Support me on Ko-fi](http://ko-fi.com/hraverkar)
+<p  align="center">
+    
+<a>[![Donate](https://img.shields.io/badge/$-donate-3366FF.svg)](https://www.ko-fi.com/hraverkar) </a>
+
+</p>
 
 
 # Features ✨
