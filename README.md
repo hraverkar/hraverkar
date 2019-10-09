@@ -8,7 +8,7 @@
 <p  align="center">
     
 <a>[![Donate](https://img.shields.io/badge/$-donate-3366FF.svg)](https://www.ko-fi.com/hraverkar) </a>
-
+<a>[![Paypal](https://img.shields.io/badge/$-donate-3366FF.svg)](https://www.paypal.me/hraverkar) </a>
 </p>
 
 
