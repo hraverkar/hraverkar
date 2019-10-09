@@ -4,10 +4,8 @@
 ![Personal Website - Dark Mode](https://i.imgur.com/bUIAalX.png)
 <p align="center"><sub>Code with ♥️</sub></p>
 
----
-<p  align="center">
 [Support me on Ko-fi](http://ko-fi.com/hraverkar)
-</p>
+
 
 # Features ✨
 
