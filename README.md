@@ -9,6 +9,8 @@
     
 <a>[![Donate](https://img.shields.io/badge/$-donate-3366FF.svg)](https://www.ko-fi.com/hraverkar) </a>
 <a>[![Paypal](https://img.shields.io/badge/$-donate-3366FF.svg)](https://www.paypal.me/hraverkar) </a>
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/577b56e9-36e5-4790-b54c-4b076ebf0101/deploy-status)](https://app.netlify.com/sites/hraverkar/deploys)
 </p>
 
 
