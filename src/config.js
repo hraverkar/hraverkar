@@ -1,7 +1,7 @@
 const config = {
 	name: 'Harshal Raverkar',
 	title: "Namaste! I'm Harshal 🙏👋🏻",
-	blog: '', // Dev.to or Medium (Make blank if you don't need the blog)
+	blog: 'Dev', // Dev.to or Medium (Make blank if you don't need the blog)
 	icon: `src/favicon.ico`,
 	// Social media profile username
 	github: 'hraverkar', // [REQUIRED] Github Username
