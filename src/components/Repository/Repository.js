@@ -11,7 +11,7 @@ const Repository = () => {
 			<h3> Repository</h3>
 			<div className="repos">
 				{data.map(repo => {
-					if (repo.archived === false && repo.fork === false)
+					if (repo.archived === false)
 						return (
 							<a
 								key={repo.id}
