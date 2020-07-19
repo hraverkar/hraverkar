@@ -21,5 +21,5 @@
 <a href="https://codesandbox.com/hraverkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="hraverkar" height="20" width="20" /></a>
 <a href="https://kaggle.com/hraverkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="hraverkar" height="20" width="20" /></a>
 <a href="https://fb.com/hraverkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="hraverkar" height="20" width="20" /></a>
-<a href="https://instagram.com/hraverkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hraverkar" height="20" width="20" /></a>
+<a href="https://instagram.com/i.am_harshal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hraverkar" height="20" width="20" /></a>
 </p>
