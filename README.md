@@ -17,7 +17,7 @@
 <a href="https://dev.to/hraverkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="hraverkar" height="20" width="20" /></a>
 <a href="https://twitter.com/hraverkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hraverkar" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/hraverkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hraverkar" height="20" width="20" /></a>
-<a href="https://stackoverflow.com/2635445/harshal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="2635445/harshal" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/users/2635445/harshal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="2635445/harshal" height="20" width="20" /></a>
 <a href="https://codesandbox.com/hraverkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="hraverkar" height="20" width="20" /></a>
 <a href="https://kaggle.com/hraverkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="hraverkar" height="20" width="20" /></a>
 <a href="https://fb.com/hraverkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="hraverkar" height="20" width="20" /></a>
