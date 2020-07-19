@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshal Raverkar</h1>
 <h3 align="center">A passionate startup enthusiast, software developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hraverkar" alt="hraverkar" /> </p>
+<p align="left"> <img src="https://ko-fi.com/hraverkar" alt="hraverkar" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/hraverkar](https://github.com/hraverkar)
 
