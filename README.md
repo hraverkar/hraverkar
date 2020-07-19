@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshal Raverkar</h1>
 <h3 align="center">A passionate startup enthusiast, software developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hraverkar" alt="hraverkar" /> </p>
-<p align="left"> <img src="https://ko-fi.com/hraverkar" alt="hraverkar" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/hraverkar](https://github.com/hraverkar)
 
@@ -22,5 +21,6 @@
 <a href="https://codesandbox.com/hraverkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="hraverkar" height="20" width="20" /></a>
 <a href="https://kaggle.com/hraverkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="hraverkar" height="20" width="20" /></a>
 <a href="https://fb.com/hraverkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="hraverkar" height="20" width="20" /></a>
-<a href="https://instagram.com/i.am_harshal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hraverkar" height="20" width="20" /></a>  
+<a href="https://instagram.com/i.am_harshal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hraverkar" height="20" width="20" /></a> 
+<a href="https://paypal.me/hraverkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/paypal.svg" alt="hraverkar" height="20" width="20" /></a>
 </p>
