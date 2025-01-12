@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/hraverkar](https://github.com/hraverkar)
 
-- 📝 I regulary write articles on [https://hraverkar.netlify.app](https://hraverkar.netlify.app)
+- 📝 I regulary write articles on [https://pudina.vercel.app](https://pudina.vercel.app)
 
 - 💬 Ask me about **Angular framework**
 
